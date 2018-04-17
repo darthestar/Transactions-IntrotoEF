@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27428.2015
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Transactions-IntrotoEF", "Transactions-IntrotoEF\Transactions-IntrotoEF.csproj", "{7809AA5A-9314-4360-8C2F-2643F4A5E871}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TransactionsIntrotoEF", "Transactions-IntrotoEF\TransactionsIntrotoEF.csproj", "{7809AA5A-9314-4360-8C2F-2643F4A5E871}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
